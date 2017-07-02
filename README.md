@@ -47,3 +47,5 @@ The dataset used in this project is included as `titanic_data.csv`. This dataset
 - `fare` : Passenger Fare
 - `cabin` : Cabin
 - `embarked` : Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
+Copyright: elijahoyekunle.com
